@@ -1,8 +1,7 @@
-from allalgorithms.searches import (
-	binary_search
-)
-
 import unittest
+
+from allalgorithms.searches import binary_search
+
 
 class TestSearches(unittest.TestCase):
 
@@ -12,6 +11,7 @@ class TestSearches(unittest.TestCase):
 		self.assertEqual(7, binary_search(arr, 77))
 		self.assertEqual(None, binary_search(arr, 8))
 		self.assertEqual(None, binary_search(arr, -1))
+
 
 if __name__ == '__main__':
 	unittest.main()
