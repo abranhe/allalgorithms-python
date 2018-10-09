@@ -15,6 +15,7 @@
 	<a href="https://github.com/abranhe/python-lib/blob/master/license"><img src="https://img.shields.io/github/license/abranhe/python-lib.svg" /></a>
 		<a href="https://github.com/allalgorithms"><img src="https://cdn.abranhe.com/projects/algorithms/badge.svg"/></a>
 		<a href="https://pypi.org/project/allalgorithms"><img src="https://img.shields.io/pypi/v/allalgorithms.svg"/></a>
+		<a href='https://coveralls.io/github/abranhe/python-lib?branch=master'><img src='https://coveralls.io/repos/github/abranhe/python-lib/badge.svg?branch=master' alt='Coverage Status' /></a>
 </p>
 
 <p align="center">
