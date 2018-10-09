@@ -55,9 +55,9 @@ print(binary_search(arr, 3))
 # Tree
 
 - Searches
-  - [Binary Search](binary_search)
+  - [Binary Search](searches/binary-search)
 - Sorting
-	 - [Merge Sort](merge_sort)
+	 - [Merge Sort](sorting/merge-sort)
 
 
 # Related
