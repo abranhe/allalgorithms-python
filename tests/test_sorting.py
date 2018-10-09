@@ -1,10 +1,11 @@
 import unittest
 
-from allalgorithms.sorting import (bubble_sort,
-                                   insertion_sort,
-                                   merge_sort,
-                                   selection_sort)
-
+from allalgorithms.sorting import (
+	bubble_sort,
+	insertion_sort,
+	merge_sort,
+	selection_sort
+)
 
 class TestSorting(unittest.TestCase):
     def test_merge_sort(self):
