@@ -1,5 +1,6 @@
 <div align="center">
-	<a href="https://pypi.org/project/allalgorithms"><img src="https://cdn.abranhe.com/projects/algorithms/logo.svg" width="30%"></a>
+	<a href="https://pypi.org/project/allalgorithms"><img src="https://cdn.abranhe.com/projects/algorithms/logo.svg" width="30%">
+	</a>
 	<br>
 	<br>
 	<br>
@@ -7,20 +8,17 @@
 	The All ▲lgorithms Python library
 	<br>
 	<br>
+</div>
+
+<p align="center">
+	<a href="https://travis-ci.org/abranhe/python-lib"><img src="https://img.shields.io/travis/abranhe/python-lib.svg?logo=travis" /></a>
+	<a href="https://github.com/abranhe/python-lib/blob/master/license"><img src="https://img.shields.io/github/license/abranhe/python-lib.svg" /></a>
+		<a href="https://github.com/allalgorithms"><img src="https://cdn.abranhe.com/projects/algorithms/badge.svg"/></a>
+		<a href="https://pypi.org/project/allalgorithms"><img src="https://img.shields.io/pypi/v/allalgorithms.svg"/></a>
 </p>
 
-[![All Algorithms Badge][1]][2]
-[![Travis][travis-img]][travis-link]
-[![License][license-img]][license-link]
-[![pypi][pypi]][pypi-link]
-
-	<br>
-	<br>
-	<br>
-	<br>
-
-	[`python.allalgorithms.com`](https://python.allalgorithms.com)
-
+<div align="center">
+	<a src="https://python.allalgorithms.com"><code>python.allalgorithms.com</code></a>
 </div>
 
 # Why?
@@ -80,13 +78,6 @@ print(binary_search(arr, 3))
 [2]: https://github.com/abranhe/python-lib
 [3]: https://avatars3.githubusercontent.com/u/21347264?s=50
 [4]: https://github.com/abranhe
-[5]: https://github.com/abranhe/python-lib/blob/master/LICENSE
-[travis-link]: https://travis-ci.org/abranhe/python-lib
-[travis-img]: https://img.shields.io/travis/abranhe/python-lib.svg?logo=travis
-[license-link]: https://github.com/abranhe/python-lib/blob/master/LICENSE
-[license-img]: https://img.shields.io/github/license/abranhe/python-lib.svg
-[pypi]: https://img.shields.io/pypi/v/allalgorithms.svg
-[pypi-link]: https://pypi.org/project/allalgorithms
 <!-------------------Markdown Images Links ---------------------------------->
 
 <div align="center">
