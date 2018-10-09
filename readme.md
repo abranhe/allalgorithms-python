@@ -29,7 +29,7 @@
 - Why not 😂
 - Clean and focused
 - Actively maintained
-- Because All Algorithms should easy to use in Python
+- Because All Algorithms should be easy to use in Python
 
 Read the detailed documentation at [python.allalgorithms.com](https://python.allalgorithms.com) or see the [`docs`](https://github.com/abranhe/python-lib/blob/master/docs) directory on Github. See [Tree](#tree).
 
