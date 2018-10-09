@@ -20,7 +20,7 @@
 <p align="center">
 	<br>
 	<br>
-	<a src="https://python.allalgorithms.com"><code>python.allalgorithms.com</code></a>
+	<a href="https://python.allalgorithms.com"><code>python.allalgorithms.com</code></a>
 </p>
 
 # Why?
