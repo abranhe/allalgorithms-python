@@ -19,6 +19,6 @@ before_script:
 script:
     - pip3 install -e .
     - tox -e $TOX_ENV
-    - pip3 uninstall -y algorithms
+    - pip3 uninstall -y allalgorithms
 notifications:
     email: false
