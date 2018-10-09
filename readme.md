@@ -17,9 +17,11 @@
 		<a href="https://pypi.org/project/allalgorithms"><img src="https://img.shields.io/pypi/v/allalgorithms.svg"/></a>
 </p>
 
-<div align="center">
+<p align="center">
+	<br>
+	<br>
 	<a src="https://python.allalgorithms.com"><code>python.allalgorithms.com</code></a>
-</div>
+</p>
 
 # Why?
 
@@ -78,6 +80,7 @@ print(binary_search(arr, 3))
 [2]: https://github.com/abranhe/python-lib
 [3]: https://avatars3.githubusercontent.com/u/21347264?s=50
 [4]: https://github.com/abranhe
+[5]: https://github.com/abranhe/python-lib/blob/master/LICENSE
 <!-------------------Markdown Images Links ---------------------------------->
 
 <div align="center">
