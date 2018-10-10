@@ -55,11 +55,16 @@ print(binary_search(arr, 3))
 
 # Tree
 
-- Searches
+- ### Searches
   - [Binary Search](https://python.allalgorithms.com/searches/binary-search)
-- Sorting
-	 - [Merge Sort](https://python.allalgorithms.com/sorting/merge-sort)
-
+- ### Sorting
+  - [Bubble Sort](https://python.allalgorithms.com/sorting/bubble-sort)
+  - [Cocktail Shaker Sort](https://python.allalgorithms.com/sorting/cocktail-shaker-sort)
+  - [Insertion Sort](https://python.allalgorithms.com/sorting/insertion-sort)
+  - [Merge Sort](https://python.allalgorithms.com/sorting/merge-sort)
+  - [Pidgeonhole Sort](https://python.allalgorithms.com/sorting/pidgeonhole-sort)
+  - [Selection Sort](https://python.allalgorithms.com/sorting/selection-sort)
+  - [Stooge Sort](https://python.allalgorithms.com/sorting/stooge-sort)
 
 # Related
 
