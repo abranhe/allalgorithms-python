@@ -6,6 +6,8 @@
 # Contributed by: dieterpl
 # Github: @dieterpl
 #
+
+
 def fibonacci_search(arr, query):
     fib2, fib1 = 0, 1
     fib = fib2 + fib1
