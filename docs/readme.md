@@ -62,7 +62,7 @@ print(binary_search(arr, 3))
   - [Cocktail Shaker Sort](sorting/cocktail-shaker-sort)
   - [Insertion Sort](sorting/insertion-sort)
   - [Merge Sort](sorting/merge-sort)
-  - [Pidgeonhole Sort](sorting/pidgeonhole-sort)
+  - [Pigeonhole Sort](sorting/pigeonhole-sort)
   - [Selection Sort](sorting/selection-sort)
   - [Stooge Sort](sorting/stooge-sort)
 

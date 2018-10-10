@@ -62,7 +62,7 @@ print(binary_search(arr, 3))
   - [Cocktail Shaker Sort](https://python.allalgorithms.com/sorting/cocktail-shaker-sort)
   - [Insertion Sort](https://python.allalgorithms.com/sorting/insertion-sort)
   - [Merge Sort](https://python.allalgorithms.com/sorting/merge-sort)
-  - [Pidgeonhole Sort](https://python.allalgorithms.com/sorting/pidgeonhole-sort)
+  - [Pigeonhole Sort](https://python.allalgorithms.com/sorting/pigeonhole-sort)
   - [Selection Sort](https://python.allalgorithms.com/sorting/selection-sort)
   - [Stooge Sort](https://python.allalgorithms.com/sorting/stooge-sort)
 

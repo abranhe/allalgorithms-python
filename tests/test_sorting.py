@@ -5,7 +5,7 @@ from allalgorithms.sorting import (
     insertion_sort,
     merge_sort,
     selection_sort,
-    pidgeonhole_sort,
+    pigeonhole_sort,
     stooge_sort,
     cocktail_shaker_sort
 )
@@ -24,7 +24,7 @@ class TestSorting(unittest.TestCase):
     def test_selection_sort(self):
         self.assertEqual([-44, 1, 2, 3, 7, 19], selection_sort([7, 3, 2, 19, -44, 1]))
 
-    def test_pidgeonhole_sort(self):
+    def test_pigeonhole_sort(self):
         self.assertEqual([-44, 1, 2, 3, 7, 19], pidgeonhole_sort([7, 3, 2, 19, -44, 1]))
 
     def test_stooge_sort(self):
