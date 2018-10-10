@@ -8,7 +8,23 @@ Date: October 9, 2018
 
 ### Algorithms:
 
-- Sorting
+- ### Sorting
   - Bubble Sort
-- Searches
+- ### Searches
   - Merge Sort
+
+# Version `0.0.1`
+
+Date: TO ADDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD, 2018
+
+### Algorithms:
+
+Added:
+
+- ### Searches
+  - Bubble Sort
+  - Cocktail Shaker Sort
+  - Insertion Sort
+  - Pigeonhole Sort
+  - Selection Sort
+  - Stooge Sort
