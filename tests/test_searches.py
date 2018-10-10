@@ -1,6 +1,6 @@
 import unittest
 
-from allalgorithms.sorting import (
+from allalgorithms.searches import (
     binary_search,
     fibonacci_search
 )
