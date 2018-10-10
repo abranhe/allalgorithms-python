@@ -7,7 +7,8 @@ from allalgorithms.sorting import (
     selection_sort,
     pidgeonhole_sort,
     stooge_sort,
-    cocktail_shaker_sort
+    cocktail_shaker_sort,
+    tree_sort
 )
 
 
@@ -32,6 +33,9 @@ class TestSorting(unittest.TestCase):
 
     def test_cocktail_shaker_sort(self):
         self.assertEqual([-44, 1, 2, 3, 7, 19], cocktail_shaker_sort([7, 3, 2, 19, -44, 1]))
+    
+    def tree_sort(self):
+	self.assertEqual([-44, 1, 2, 3, 7, 19], tree_sort([7, 3, 2, 19, -44, 1]))
 
 
 if __name__ == "__main__":
