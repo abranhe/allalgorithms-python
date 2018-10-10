@@ -36,7 +36,7 @@ def in_order_traversal(tree):
         in_order_traversal(tree.right)
 
 
-def TreeSort(x):
+def tree_sort(x):
     # root node
     t = insert(None, x[0]);
     # inserting all elements in the binary tree
