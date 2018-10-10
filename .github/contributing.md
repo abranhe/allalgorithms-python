@@ -5,7 +5,7 @@
 ##  See
 
 - [General Rules](#general-rules)
-- [All ▲lgorithms Structure](#all-lgorithms-structure)
+- [All ▲lgorithms Structure](#all-lgorithms-python-library-structure)
 - [Adding new algorithms](#adding-new-algorithms)
 - [Style](#style)
 - [Adding Documentation](#adding-documentation)
