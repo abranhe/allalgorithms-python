@@ -55,10 +55,16 @@ print(binary_search(arr, 3))
 
 # Tree
 
-- Searches
+- ### Searches
   - [Binary Search](searches/binary-search)
-- Sorting
-	 - [Merge Sort](sorting/merge-sort)
+- ### Sorting
+  - [Bubble Sort](sorting/bubble-sort)
+  - [Cocktail Shaker Sort](sorting/cocktail-shaker-sort)
+  - [Insertion Sort](sorting/insertion-sort)
+  - [Merge Sort](sorting/merge-sort)
+  - [Pigeonhole Sort](sorting/pigeonhole-sort)
+  - [Selection Sort](sorting/selection-sort)
+  - [Stooge Sort](sorting/stooge-sort)
 
 
 # Related
