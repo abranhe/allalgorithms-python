@@ -28,3 +28,10 @@ Added:
   - Pigeonhole Sort
   - Selection Sort
   - Stooge Sort
+
+# Version `0.0.2`
+
+Date: October 10, 2018
+
+- ### Sorting
+  - Fibonacci Search
