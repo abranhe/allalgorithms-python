@@ -31,7 +31,9 @@
 - Actively maintained
 - Because All Algorithms should easy to use in Python
 
-Read the detailed documentation at [python.allalgorithms.com](https://python.allalgorithms.com) or see [Tree](#tree).
+Read the detailed documentation at  [python.allalgorithms.com](https://python.allalgorithms.com) or see [Tree](#tree).
+
+**Want to contribute?** [GET STARTED HERE](https://github.com/abranhe/python-lib/tree/master/.github/contributing.md)
 
 ## Install
 
