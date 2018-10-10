@@ -33,6 +33,8 @@
 
 Read the detailed documentation at [python.allalgorithms.com](https://python.allalgorithms.com) or see the [`docs`](https://github.com/abranhe/python-lib/blob/master/docs) directory on Github. See [Tree](#tree).
 
+**Want to contribute?** [GET STARTED HERE](https://github.com/abranhe/python-lib/tree/master/.github/contributing.md)
+
 ## Install
 
 ```
