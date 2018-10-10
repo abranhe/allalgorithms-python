@@ -36,8 +36,7 @@ def in_order_traversal(tree):
         in_order_traversal(tree.right)
 
 
-if __name__ == '__main__':
-    x = list(map(int,input().split(" ")))
+def TreeSort(x):
     # root node
     t = insert(None, x[0]);
     # inserting all elements in the binary tree
