@@ -59,6 +59,7 @@ print(binary_search(arr, 3))
 
 - ### Searches
   - [Binary Search](https://python.allalgorithms.com/searches/binary-search)
+  - [Jump Search](https://python.allalgorithms.com/searches/jump-search)
 - ### Sorting
   - [Bubble Sort](https://python.allalgorithms.com/sorting/bubble-sort)
   - [Cocktail Shaker Sort](https://python.allalgorithms.com/sorting/cocktail-shaker-sort)
