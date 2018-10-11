@@ -1,6 +1,7 @@
 # Jump Search
 
 In computer science, jump search is a search algorithm for sorted array which find the element by jumping ahead by fixed steps or skipping some elements in place of searching all elements.
+
 ## Install
 
 ```
@@ -23,7 +24,7 @@ print(jump_search(arr, 3))
 
 ## API
 
-### binary_search(array, query)
+### jump_search(array, query)
 
 > Return array index if its found, otherwise returns `None`
 
