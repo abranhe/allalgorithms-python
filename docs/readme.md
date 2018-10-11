@@ -59,6 +59,7 @@ print(binary_search(arr, 3))
 
 - ### Searches
   - [Binary Search](searches/binary-search)
+  - [Jump Search](searches/jump-search)
 - ### Sorting
   - [Bubble Sort](sorting/bubble-sort)
   - [Cocktail Shaker Sort](sorting/cocktail-shaker-sort)
