@@ -35,7 +35,7 @@ class TestSorting(unittest.TestCase):
         self.assertEqual([-44, 1, 2, 3, 7, 19], cocktail_shaker_sort([7, 3, 2, 19, -44, 1]))
     
     def tree_sort(self):
-	self.assertEqual([-44, 1, 2, 3, 7, 19], tree_sort([7, 3, 2, 19, -44, 1]))
+        self.assertEqual([-44, 1, 2, 3, 7, 19], tree_sort([7, 3, 2, 19, -44, 1]))
 
 
 if __name__ == "__main__":
