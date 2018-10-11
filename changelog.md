@@ -33,3 +33,6 @@ Added:
   - Pigeonhole Sort
   - Selection Sort
   - Stooge Sort
+
+- ### String
+  - Palindrome Checker
