@@ -1,4 +1,3 @@
-
 class BinaryTreeNode(object):
     #initial values for value,left and right
     def __init__(self, value):
@@ -36,7 +35,7 @@ def in_order_traversal(tree,a):
         in_order_traversal(tree.right,a)
 
 
-def TreeSort(x):
+def tree_sort(x):
     # root node
     t = insert(None, x[0]);
     # inserting all elements in the binary tree
@@ -46,3 +45,4 @@ def TreeSort(x):
     a = []
     in_order_traversal(t,a)
     return a
+
