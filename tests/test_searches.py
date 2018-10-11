@@ -2,7 +2,7 @@ import unittest
 
 from allalgorithms.searches import (
     binary_search,
-    fibonacci_search
+    fibonacci_search,
     jump_search
 )
 
