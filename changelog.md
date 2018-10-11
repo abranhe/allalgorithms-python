@@ -28,3 +28,4 @@ Added:
   - Pigeonhole Sort
   - Selection Sort
   - Stooge Sort
+  - Jump Search
