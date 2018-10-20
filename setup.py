@@ -27,6 +27,6 @@ setuptools.setup(
         'Programming Language :: Python :: 3.6',
     ),
     project_urls={
-        'Source': 'https://github.com/abranhe/python-lib',
+        'Source': 'https://github.com/abranhe/allalgorithms-python',
     },
 )
