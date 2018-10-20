@@ -11,11 +11,11 @@
 </div>
 
 <p align="center">
-	<a href="https://travis-ci.org/abranhe/python-lib"><img src="https://img.shields.io/travis/abranhe/python-lib.svg?logo=travis" /></a>
-	<a href="https://github.com/abranhe/python-lib/blob/master/license"><img src="https://img.shields.io/github/license/abranhe/python-lib.svg" /></a>
+	<a href="https://travis-ci.org/abranhe/allalgorithms-python"><img src="https://img.shields.io/travis/abranhe/allalgorithms-python.svg?logo=travis" /></a>
+	<a href="https://github.com/abranhe/allalgorithms-python/blob/master/license"><img src="https://img.shields.io/github/license/abranhe/allalgorithms-python.svg" /></a>
 		<a href="https://github.com/allalgorithms"><img src="https://cdn.abranhe.com/projects/algorithms/badge.svg"/></a>
 		<a href="https://pypi.org/project/allalgorithms"><img src="https://img.shields.io/pypi/v/allalgorithms.svg"/></a>
-		<a href='https://coveralls.io/github/abranhe/python-lib?branch=master'><img src='https://coveralls.io/repos/github/abranhe/python-lib/badge.svg?branch=master' alt='Coverage Status' /></a>
+		<a href='https://coveralls.io/github/abranhe/allalgorithms-python?branch=master'><img src='https://coveralls.io/repos/github/abranhe/allalgorithms-python/badge.svg?branch=master' alt='Coverage Status' /></a>
 </p>
 
 <p align="center">
@@ -29,11 +29,11 @@
 - Why not 😂
 - Clean and focused
 - Actively maintained
-- Because All Algorithms should easy to use in Python
+- Because All Algorithms should be easy to use in Python
 
-Read the detailed documentation at  [python.allalgorithms.com](https://python.allalgorithms.com) or see [Tree](#tree).
+Read the detailed documentation at [python.allalgorithms.com](https://python.allalgorithms.com) or see the [`docs`](https://github.com/abranhe/allalgorithms-python/blob/master/docs) directory on Github. See [Tree](#tree).
 
-**Want to contribute?** [GET STARTED HERE](https://github.com/abranhe/python-lib/tree/master/.github/contributing.md)
+**Want to contribute?** [GET STARTED HERE](https://github.com/abranhe/allalgorithms-python/tree/master/.github/contributing.md)
 
 ## Install
 
@@ -58,22 +58,24 @@ print(binary_search(arr, 3))
 # Tree
 
 - ### Searches
-  - [Binary Search](searches/binary-search)
-  - [Fibonacci Search](searches/fibonacci-search)
-  - [Jump Search](searches/jump-search)
+  - [Binary Search](https://python.allalgorithms.com/searches/binary-search)
+  - [Fibonacci Search](https://python.allalgorithms.com/searches/fibonacci-search)
+  - [Jump Search](https://python.allalgorithms.com/searches/jump-search)
+  
 - ### Sorting
-  - [Bubble Sort](sorting/bubble-sort)
-  - [Cocktail Shaker Sort](sorting/cocktail-shaker-sort)
-  - [Insertion Sort](sorting/insertion-sort)
-  - [Merge Sort](sorting/merge-sort)
-  - [Pigeonhole Sort](sorting/pigeonhole-sort)
-  - [Selection Sort](sorting/selection-sort)
-  - [Stooge Sort](sorting/stooge-sort)
-
+  - [Bubble Sort](https://python.allalgorithms.com/sorting/bubble-sort)
+  - [Cocktail Shaker Sort](https://python.allalgorithms.com/sorting/cocktail-shaker-sort)
+  - [Insertion Sort](https://python.allalgorithms.com/sorting/insertion-sort)
+  - [Merge Sort](https://python.allalgorithms.com/sorting/merge-sort)
+  - [Pigeonhole Sort](https://python.allalgorithms.com/sorting/pigeonhole-sort)
+  - [Selection Sort](https://python.allalgorithms.com/sorting/selection-sort)
+  - [Stooge Sort](https://python.allalgorithms.com/sorting/stooge-sort)
+- ### String
+  - [Palindrome Check](https://python.allalgorithms.com/string/palindrom-check)
 
 # Related
 
-- [javascript-lib](https://github.com/abranhe/javascript-lib): All ▲lgorithms Javascript library
+- [allalgorithms-javascript](https://github.com/abranhe/allalgorithms-javascript): All ▲lgorithms Javascript library
 
 # Maintainers
 
@@ -88,10 +90,10 @@ print(binary_search(arr, 3))
 
 <!-------------------Markdown Images Links ---------------------------------->
 [1]: https://cdn.abranhe.com/projects/algorithms/badge.svg
-[2]: https://github.com/abranhe/python-lib
+[2]: https://github.com/abranhe/allalgorithms-python
 [3]: https://avatars3.githubusercontent.com/u/21347264?s=50
 [4]: https://github.com/abranhe
-[5]: https://github.com/abranhe/python-lib/blob/master/LICENSE
+[5]: https://github.com/abranhe/allalgorithms-python/blob/master/license
 <!-------------------Markdown Images Links ---------------------------------->
 
 <div align="center">
