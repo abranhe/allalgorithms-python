@@ -1,32 +1,23 @@
 <div align="left">
-<img src="https://cdn.abraham.gq/projects/algorithms/algorithms.svg" alt="Algorithms"> <img src="http://konpa.github.io/devicon/devicon.git/icons/python/python-original.svg" width="50px">
+<h1><img src="https://cdn.abranhe.com/projects/algorithms/algorithms.svg" alt="Algorithms" height="30px">
+<img src="https://cdn.abranhe.com/projects/algorithms/logos/python.svg" width="30px">
+Changelog
+</h1>
 <div>
 
-# Version `0.0.0`
+# `0.0.1`
 
-Date: October 9, 2018
+Date: **TODO**
 
-### Algorithms:
-
-- ### Searches
-  - Merge Sort
-
-- ### Sorting
-  - Bubble Sort
-  
-# Version `0.0.1`
-
-Date: TO ADDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD, 2018
-
-### Algorithms:
+> Algorithms:
 
 Added:
 
-- ### Searches
+- **Searches**
   - Fibonacci Search
   - Jump Search
 
-- ### Sorting
+- **Sorting**
   - Bubble Sort
   - Cocktail Shaker Sort
   - Insertion Sort
@@ -34,5 +25,17 @@ Added:
   - Selection Sort
   - Stooge Sort
 
-- ### String
+- **String**
   - Palindrome Checker
+  
+# `0.0.0`
+
+Date: October 9, 2018
+
+> Algorithms:
+
+- **Searches**
+  - Merge Sort
+
+- **Sorting**
+  - Bubble Sort

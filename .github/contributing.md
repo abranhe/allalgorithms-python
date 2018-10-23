@@ -50,6 +50,8 @@ for "Bubble Sort" and so on).
 
 ### Style
 
+<p id="changelog">Please <b>DO NOT EDIT CHANGELOG</b> on your pull requests, this is must be edited by one of the write access maintainers when they going to drop a new release.</p> 
+
 This repository follow the [PEP8 Style Gide for Python](https://www.python.org/dev/peps/pep-0008/), so make sure you lint your code before adding a new pull request.
 
 Each `.py` file should have the following header. (no for testing files)
