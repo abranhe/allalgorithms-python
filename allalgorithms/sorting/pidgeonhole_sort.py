@@ -7,7 +7,7 @@
 # Github: @martmists
 #
 
-def pigeonhole_sort(data):
+def pidgeonhole_sort(data):
     minimum = min(data)
     size = max(data) - minimum + 1
     holes = [0] * size
