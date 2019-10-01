@@ -1,3 +1,11 @@
+# -*- coding: UTF-8 -*-
+#
+# Quick Sort Algorithm
+# The All ▲lgorithms library for python
+#
+# Contributed by: Brian D. Hopper
+# Github: @bubbabeans
+#
 def partition(xs, start, end):
     follower = leader = start
     while leader < end:
