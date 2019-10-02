@@ -8,7 +8,8 @@ from allalgorithms.sorting import (
     pigeonhole_sort,
     stooge_sort,
     cocktail_shaker_sort,
-    tree_sort
+    tree_sort,
+    heap_sort
 )
 
 
@@ -33,9 +34,14 @@ class TestSorting(unittest.TestCase):
 
     def test_cocktail_shaker_sort(self):
         self.assertEqual([-44, 1, 2, 3, 7, 19], cocktail_shaker_sort([7, 3, 2, 19, -44, 1]))
-    
-    def tree_sort(self):
+
+    def test_tree_sort(self):
         self.assertEqual([-44, 1, 2, 3, 7, 19], tree_sort([7, 3, 2, 19, -44, 1]))
+
+    def test_heap_sort(self):
+        array = [7, 3, 2, 19, -44, 1]
+        heap_sort(array)
+        self.assertEqual([-44, 1, 2, 3, 7, 19], array)
 
 
 if __name__ == "__main__":
