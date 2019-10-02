@@ -10,6 +10,7 @@ from allalgorithms.sorting import (
     cocktail_shaker_sort,
     tree_sort,
     heap_sort
+    shell_sort,
 )
 
 
@@ -43,6 +44,8 @@ class TestSorting(unittest.TestCase):
         heap_sort(array)
         self.assertEqual([-44, 1, 2, 3, 7, 19], array)
 
+    def test_shell_sort(self):
+        self.assertEqual([-44, 1, 2, 3, 7, 19], shell_sort([7, 3, 2, 19, -44, 1]))
 
 if __name__ == "__main__":
     unittest.main()
