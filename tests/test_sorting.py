@@ -9,7 +9,7 @@ from allalgorithms.sorting import (
     stooge_sort,
     cocktail_shaker_sort,
     tree_sort,
-    heap_sort
+    heap_sort,
     shell_sort,
 )
 
